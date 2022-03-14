@@ -1,7 +1,7 @@
 <h1> Landing-Page </h1>
 
-<h2  style="text-align: center;" >sobre o projeto</h2>
-<p>Este landing page foi desenvolvida para colocar em práticas conhecimentos HTML, CSS, acessibilidade, responsividade, desing e diversas ouros conceitos</p>
+<h2  style="text-align: center;" >Sobre o projeto</h2>
+<p>Esta landing page foi desenvolvida para colocar em práticas conhecimentos HTML5, CSS3, acessibilidade, responsividade, desing e diversos ouros conceitos</p>
 
 <h2>Tecnologias</h2>
 <ul>
